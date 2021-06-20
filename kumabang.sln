@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4A61D151-FA9D-4FBE-98C1-289B2BA0D8FD}"
+	ProjectSection(SolutionItems) = preProject
+		game.js = game.js
+		lib\nineleap.enchant.js = lib\nineleap.enchant.js
+		stagedata.js = stagedata.js
+		lib\tl.enchant.js = lib\tl.enchant.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
